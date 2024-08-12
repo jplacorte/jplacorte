@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi, I'm Jaypee👋</h1>
-
+<h1 align="center">Hi, I'm Jaypee <img src="https://cdn3.emoji.gg/emojis/7005-blobmusic2.gif" alt="blobmusic2" height="50"/></h1> 
 <div align="center">
   <img src="https://c.tenor.com/2tpYSeH4-vMAAAAC/tenor.gif" alt="welcome.gif"/>
 </div>
