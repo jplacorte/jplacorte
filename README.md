@@ -10,14 +10,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://devicons.railway.app/i/typescript.svg" alt="typescript" height="65"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.railway.app/i/javascript.svg" alt="javascript" height="65"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" height="65"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://devicons.railway.app/i/react.svg" alt="react" height="65"/>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" height="65" />
-  <a href="https://redux.js.org/" target="_blank"><img src="https://devicons.railway.app/i/redux.svg" alt="redux" height="65"/>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="65" />
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" height="65"/>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://devicons.railway.app/i/firebase.svg" alt="firebase" height="65"/>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="65" />      
-  <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" alt="storybook" height="65"/>       
+  <a href="https://react.dev/" target="_blank"><img src="https://devicons.railway.app/i/react.svg" alt="react" height="65"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" height="65" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://devicons.railway.app/i/redux.svg" alt="redux" height="65"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="65" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" height="65"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://devicons.railway.app/i/firebase.svg" alt="firebase" height="65"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="65" /></a>      
+  <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" alt="storybook" height="65"/></a>       
 </div >
 
 <!--
