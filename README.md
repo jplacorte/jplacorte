@@ -6,8 +6,8 @@
 
 <p align="center">Tech Stack</p>
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" height="65"/></a>
-  <img src="https://devicons.railway.app/i/typescript.svg" alt="typescript" height="65"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" height="65"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://devicons.railway.app/i/typescript.svg" alt="typescript" height="65"/></a>
   <img src="https://devicons.railway.app/i/javascript.svg" alt="javascript" height="65"/>
   <img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" height="65"/>
   <img src="https://devicons.railway.app/i/react.svg" alt="react" height="65"/>
