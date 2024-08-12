@@ -7,18 +7,18 @@
 
 <p align="center">Tech Stack</p>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" height="70"/>
-  <img src="https://devicons.railway.app/i/typescript.svg" alt="typescript" height="70"/>
-  <img src="https://devicons.railway.app/i/javascript.svg" alt="javascript" height="70"/>
-  <img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" height="70"/>
-  <img src="https://devicons.railway.app/i/react.svg" alt="react" height="70"/>
-  <img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" height="70" />
-  <img src="https://devicons.railway.app/i/redux.svg" alt="redux" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="70" />
-  <img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" height="70"/>
-  <img src="https://devicons.railway.app/i/firebase.svg" alt="firebase" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="70" />      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" alt="storybook" height="70"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" height="65"/>
+  <img src="https://devicons.railway.app/i/typescript.svg" alt="typescript" height="65"/>
+  <img src="https://devicons.railway.app/i/javascript.svg" alt="javascript" height="65"/>
+  <img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" height="65"/>
+  <img src="https://devicons.railway.app/i/react.svg" alt="react" height="65"/>
+  <img src="https://devicons.railway.app/i/nodejs.svg" alt="nodejs" height="65" />
+  <img src="https://devicons.railway.app/i/redux.svg" alt="redux" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="65" />
+  <img src="https://devicons.railway.app/i/mongodb.svg" alt="mongodb" height="65"/>
+  <img src="https://devicons.railway.app/i/firebase.svg" alt="firebase" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" height="65" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" alt="storybook" height="65"/>       
 </div >
 
 <!--
