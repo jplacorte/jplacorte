@@ -4,7 +4,7 @@
   <img src="https://c.tenor.com/2tpYSeH4-vMAAAAC/tenor.gif" alt="welcome.gif"/>
 </div>
 
-<p align="center">Tech Stack</p>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" height="65"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://devicons.railway.app/i/typescript.svg" alt="typescript" height="65"/></a>
